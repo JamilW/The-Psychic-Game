@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+body    {
+    background: #9cd7e8; /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover, #9cd7e8 0%, #6fc0d5 40%, #2d9bb9 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover, #9cd7e8 0%,#6fc0d5 40%,#2d9bb9 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center, #9cd7e8 0%,#6fc0d5 40%,#2d9bb9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9cd7e8', endColorstr='#2d9bb9',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+    h1  {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    /* font-family: 'Georgia', 'Times New Roman', Times, serif, bold; */
+    font-family: 'Playfair Display SC', serif;
+    font-size: 48px;
+    color: rgb(33, 33, 175);
+    margin-left: 20px;
+    text-shadow: 2px 2px black;
+}
+p   {
+    margin-bottom: 20px;
+    color: rgb(46, 46, 245);
+    text-shadow: 1px 1px black;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 24px;
+    margin-left: 20px;
+}
