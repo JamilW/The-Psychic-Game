@@ -2,7 +2,7 @@
 
 The Psychic Game
 
-![PSYCHIC.PNG](/assets/images/pscyhic.png)
+![PSYCHIC.PNG](/assets/images/psychic.png)
 
 ### Instructions
 
